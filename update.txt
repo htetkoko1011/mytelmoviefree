@@ -1,1 +1,1 @@
-[{"title":"","message":"","link":"","version":""}]
+[{"title":"latest","message":"","link":"","version":""}]
